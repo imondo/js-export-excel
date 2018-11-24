@@ -1,0 +1,23 @@
+{
+  "name": "js-export-excel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/one-pupil/js-export-excel.git"
+  },
+  "keywords": [
+    "js-xlsx",
+    "excel"
+  ],
+  "author": "Mondo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/one-pupil/js-export-excel/issues"
+  },
+  "homepage": "https://github.com/one-pupil/js-export-excel#readme"
+}
